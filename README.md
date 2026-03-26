@@ -1,7 +1,9 @@
 Problem Statement
 
 Spam messages are a common issue in digital communication. This project builds an ML model capable of automatically detecting spam messages via an API interface.
-Tech Stack
+
+
+Technical skill:
 
 Python
 
